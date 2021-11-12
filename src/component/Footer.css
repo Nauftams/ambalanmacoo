@@ -1,0 +1,25 @@
+.core {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: 400;
+}
+
+.footer-comp {
+  background-color: #bdabab;
+  margin-top: 5rem;
+  width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 992px) {
+  .footer-comp {
+    width: 1440px;
+    height: 466px;
+  }
+}
+.copyright {
+  margin-top: 12rem;
+  font-size: 15px;
+}
